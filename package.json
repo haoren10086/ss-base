@@ -1,6 +1,6 @@
 {
   "name": "common",
-  "version": "1.0.0-alpha.1687691918198",
+  "version": "1.0.0",
   "description": "A components library example",
   "main": "lib/varlet.cjs.js",
   "module": "es/index.mjs",
